@@ -1,0 +1,12 @@
+flask
+openai
+cohere
+tensorflow
+torch
+scikit-learn
+pyttsx3
+python-dotenv
+requests
+pandas
+numpy
+Pillow
