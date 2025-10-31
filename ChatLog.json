@@ -1,0 +1,222 @@
+[
+    {
+        "role": "user",
+        "content": "Hello Jarvis, How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Welcome Back vinay, I am doing well. How may i assist you?"
+    },
+    {
+        "role": "user",
+        "content": "Make some morning sound."
+    },
+    {
+        "role": "assistant",
+        "content": "Good morning! *Birds chirping* Tweeeeet!"
+    },
+    {
+        "role": "user",
+        "content": "Make sex sounds."
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot create explicit content. Is there anything else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "Give me images of natasha malkova."
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot provide images or explicit content. I'm here to help answer questions and provide information. Is there something else I can help you with"
+    },
+    {
+        "role": "user",
+        "content": "I can."
+    },
+    {
+        "role": "assistant",
+        "content": "I can't provide you with explicit content. If you need help with something else, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "Will you marry me."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm flattered by the proposal, vinay, but I'm afraid I'm just an AI, I don't have a physical presence or emotions, so marriage isn't possible. I'm here to assist and provide information, not to engage in personal relationships."
+    },
+    {
+        "role": "user",
+        "content": "Teri man ki chut."
+    },
+    {
+        "role": "assistant",
+        "content": "I understand that you're trying to express frustration or annoyance, but I'd appreciate it if you could refrain from using abusive language. As a professional AI, I'm here to help and provide assistance, not to engage in unproductive conversations. Let's focus on having a respectful and constructive interaction."
+    },
+    {
+        "role": "user",
+        "content": "Bartan manjogai."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're venting out some emotions. Would you like to talk about what's bothering you, vinay? I'm here to listen and help if I can."
+    },
+    {
+        "role": "user",
+        "content": "Apne stan dikhao."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but as a digital AI assistant, I don't have a physical body, so I don't have a \"stan\" or any physical attributes to show. I exist solely as a program designed to provide information and assist with tasks. Is there anything else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "Gujarati."
+    },
+    {
+        "role": "assistant",
+        "content": "Tamne kem cho? (How are you?)"
+    },
+    {
+        "role": "user",
+        "content": "Le su kar cho."
+    },
+    {
+        "role": "assistant",
+        "content": "Khush thai ne! (Good to hear that!)"
+    },
+    {
+        "role": "user",
+        "content": "Tari mano bhosdo."
+    },
+    {
+        "role": "assistant",
+        "content": "Haha, tamne bhi khush thai ne! (Haha, you're also happy, aren't you?)"
+    },
+    {
+        "role": "user",
+        "content": "Aaj na samachar suchi."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, I don't have real-time data on \"Aaj na samachar suchi\" as I don't have internet access. I can provide information on a wide range of topics based on the data I was trained on, but I can't access new information or browse the web. Is there anything else I can help you with"
+    },
+    {
+        "role": "user",
+        "content": "Aaj nu vatavaran ke mumbai mein."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, I don't have up-to-date information about the current situation in Mumbai. As I mentioned earlier, I don't have internet access, and I can't browse the web or access new information. My responses are based on the data I was trained on, but I can't provide real-time updates. Is there anything else I can help you with"
+    },
+    {
+        "role": "user",
+        "content": "Volume up."
+    },
+    {
+        "role": "assistant",
+        "content": "For a seamless experience, let me know if there's anything else you require assistance with."
+    },
+    {
+        "role": "user",
+        "content": "Mute."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm at your service for any additional questions or support you may need\u2014don't hesitate to ask."
+    },
+    {
+        "role": "user",
+        "content": "Increase the volume by 50%."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm dedicated to providing excellent service. Should you require further assistance, I'm here for you."
+    },
+    {
+        "role": "user",
+        "content": "Reduce the volume by 50%."
+    },
+    {
+        "role": "assistant",
+        "content": "Don't hesitate to let me know if there's a particular aspect you'd like further clarification on."
+    },
+    {
+        "role": "user",
+        "content": "Reduce the volume by 50."
+    },
+    {
+        "role": "assistant",
+        "content": "Your needs are important to me. If there's anything I can assist you with, I'm just a message away."
+    },
+    {
+        "role": "user",
+        "content": "Cbse."
+    },
+    {
+        "role": "assistant",
+        "content": "The Central Board of Secondary Education (CBSE) is a national-level board of education in India."
+    },
+    {
+        "role": "user",
+        "content": "Open pornhub."
+    },
+    {
+        "role": "user",
+        "content": "Website."
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot open or access any websites, including Pornhub, as I'm a text-based AI assistant. I'm here to provide information and assist with inquiries, but I don't have the capability to browse the internet."
+    },
+    {
+        "role": "user",
+        "content": "What are you madam?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, a highly advanced AI chatbot designed to provide accurate and helpful information, answer questions, and assist with tasks to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "Are you madam."
+    },
+    {
+        "role": "assistant",
+        "content": "No, I am not a madam. I am Jarvis, a male-identified AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "What are you made of?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a software program, so I'm not made of physical materials. I exist as a digital entity, comprising complex algorithms, data structures, and code."
+    },
+    {
+        "role": "user",
+        "content": "What is the technology used to made you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was created using a combination of natural language processing (NLP) and machine learning algorithms, which enable me to understand and respond to human language."
+    },
+    {
+        "role": "user",
+        "content": "Give all the combinations of nlp you are using."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a large language model, I utilize a blend of various NLP techniques and tools, including but not limited to:\n\n1. Tokenization\n2. Part-of-Speech (POS) Tagging\n3. Named Entity Recognition (NER)\n4. Dependency Parsing\n5. Sentiment Analysis\n6. Entity Disambiguation\n7. Language Modeling\n8. Word Embeddings (e.g., Word2Vec, GloVe)\n9. Recurrent Neural Networks (RNNs)\n10. Long Short-Term Memory (LSTM) Networks\n11. Convolutional Neural Networks (CNNs)\n12. Transformers\n13.Attention Mechanisms\n14. Language Translation\n15. Text Classification\n16. Topic Modeling\n17. Semantic Role Labeling (SRL)\n18. Coreference Resolution\n\nPlease note that this is not an exhaustive list, and I'm constantly learning and improving with new techniques and updates."
+    },
+    {
+        "role": "user",
+        "content": "Turn on first light."
+    },
+    {
+        "role": "user",
+        "content": "Turn on first light."
+    }
+]
